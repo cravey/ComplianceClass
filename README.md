@@ -1,5 +1,5 @@
 # ComplianceClass
-Notes on compliance initiative basics.
+Notes on compliance initiative basics based on work initiative from ~2017 combined with current classwork.
 1. Controls basics
 2. Control framework concepts
 3. Interpreting controls
